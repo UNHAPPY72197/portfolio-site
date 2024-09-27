@@ -1,0 +1,21 @@
+.projects {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .projects h1 {
+    font-size: 48px;
+  }
+  
+  .projects p {
+    font-size: 24px;
+  }
+  
+  .projects .btn {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  
